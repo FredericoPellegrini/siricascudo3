@@ -63,3 +63,28 @@ header li{
     border-radius: 10px;
     padding: 4px;
 }
+
+.infos{
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.infobox{
+    display: flex;
+    flex-direction: column;
+}
+
+.infos h2{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.infobox img{
+    width: 170px;
+    height: 170px;
+    border: 3px solid #3B82F6;
+    border-radius: 7px;
+}
